@@ -85,7 +85,7 @@ h2 {
 }
 
 header div:last-of-type > img {
-  width: 370px;
+  width: 100%;
 }
 
 .container {
