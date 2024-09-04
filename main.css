@@ -53,14 +53,14 @@ h2 {
   margin-top: 70px;
   font-family: "poppins";
   text-align: center;
-  font-weight: 600;
+  font-weight: 550;
   font-size: 30px;
 }
 
 .head-description {
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 15px;
   align-items: center;
   margin-bottom: 20px;
 }
@@ -261,7 +261,8 @@ footer > div > img {
 
   h2 {
     text-align: left;
-    font-size: 55px;
+    font-size: 53px;
+    margin-top: 50px;
   }
 
   .getstarted {
@@ -270,6 +271,7 @@ footer > div > img {
 
   .headerpara {
     text-align: left;
+    margin-top: 15px;
   }
 
   .head-description {
@@ -329,7 +331,6 @@ footer > div > img {
   .deskfooter {
     display: flex;
     gap: 50px;
-    /* font-size: 12px; */
   }
 
   .about {
