@@ -275,6 +275,7 @@ footer > div > img {
   }
 
   .head-description {
+    gap: 13px;
     justify-content: left;
     align-items: start;
   }
@@ -293,7 +294,7 @@ footer > div > img {
   }
 
   .generate {
-    margin-top: 60px;
+    margin-top: 55px;
   }
 
   .flowing {
@@ -305,7 +306,7 @@ footer > div > img {
   }
 
   .you {
-    margin-top: 60px;
+    margin-top: 55px;
   }
 
   .user {
@@ -317,7 +318,7 @@ footer > div > img {
   }
 
   .it {
-    margin-top: 60px;
+    margin-top: 55px;
   }
 
   .ready {
